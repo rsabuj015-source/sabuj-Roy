@@ -1,0 +1,6 @@
+{
+  "name": "ChatNova",
+  "description": "Modern, scalable social communication and gaming platform with real-time chat, offline messaging, and multiplayer games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

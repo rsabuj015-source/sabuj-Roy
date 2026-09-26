@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">চ্যাটনোভা</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_chats">চ্যাট</string>
+    <string name="nav_games">গেমস</string>
+    <string name="nav_friends">বন্ধু</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="tagline">রিয়েল-টাইমে যোগাযোগ, চ্যাট ও গেম খেলুন</string>
+    <string name="get_started">শুরু করুন</string>
+    <string name="login">লগইন</string>
+    <string name="register">নিবন্ধন করুন</string>
+    <string name="email_hint">ইমেইল ঠিকানা</string>
+    <string name="password_hint">পাসওয়ার্ড</string>
+    <string name="settings">সেটিংস</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatNova</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_friends">Friends</string>
+    <string name="nav_profile">Profile</string>
+    <string name="tagline">Connect, Chat &amp; Play in Real-Time</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="settings">Settings</string>
+</resources>
